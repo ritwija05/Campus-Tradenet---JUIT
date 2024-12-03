@@ -11,7 +11,7 @@ const Header = () => {
       <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-sm-top">
         <div className="container">
           <Link className="navbar-brand" to="/">
-             Campus OLX for <img src="/iitglogo.png" alt="iitglogo"  />
+             Campus OLX for <img src="/JUIT.png" alt="iitglogo"  />
           </Link>
           <button
             className="navbar-toggler"
